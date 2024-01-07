@@ -1,4 +1,4 @@
-This extension removes the dark overlay displayed while pausing a Hulu video.
+This Google Chrome extension removes the dark overlay displayed while pausing a Hulu video.
 
 #### Installation:
 
